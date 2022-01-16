@@ -24,12 +24,12 @@ button {
   box-shadow: 2px 2px 5px grey;
 }
 
-input[type='text'] {
-  width: 50%;
+input[type="text"] {
+  width: 75%;
 }
 
 .AddField {
-  padding-top: 10px;
+  padding-top: 30px;
   display: flex;
   justify-content: space-around;
 }
